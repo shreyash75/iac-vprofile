@@ -23,7 +23,7 @@ env:
 
 jobs: 
   terraform:
-    name: "Terraform Plan and Apply"
+    name: "Terraform plan"
     runs-on: ubuntu-latest
     defaults:
       run:
